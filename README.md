@@ -5,7 +5,7 @@ This project allows to control a quadruped robot prototype leg for describing a 
 
 Files in this project:
 The desired foot position in task space is specified in the .xlsx file.
-The codes for processing the data, inverse kinematics, trajectory generation and results plots are in the .m files. (I just Matlab for convenience and rapid prototyping, but the code is easily transferable to any other programming language i.e. Python).
+The codes for processing the data, inverse kinematics, trajectory generation and results plots are in the .m files. (I used Matlab for convenience and rapid prototyping, but the code is easily transferable to any other programming language i.e. Python).
 The code for commanding the servo motors with the Arduino Mega board and Maestro servo controller is in the .ino file.
 
 
