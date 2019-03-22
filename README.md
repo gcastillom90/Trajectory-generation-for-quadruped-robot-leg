@@ -9,4 +9,4 @@ The codes for processing the data, inverse kinematics, trajectory generation and
 The code for commanding the servo motors with the Arduino Mega board and Maestro servo controller is in the .ino file.
 
 ## Results
-[[https://github.com/gcastillom90/Trajectory-generation-for-quadruped-robot-leg/img/Desired_trajectory.png|alt=desired]]
+[[https://github.com/gcastillom90/Trajectory-generation-for-quadruped-robot-leg/blob/master/img/Desired_trajectory.png|alt=desired]]
